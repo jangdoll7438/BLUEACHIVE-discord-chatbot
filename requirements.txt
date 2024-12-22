@@ -1,0 +1,5 @@
+discord
+openai
+asyncio
+requests
+python-dotenv
