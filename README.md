@@ -49,114 +49,43 @@ Assistant에서 finish account set up 클릭 후 소액 결제하여 챗봇 활�
 ![image](https://github.com/user-attachments/assets/d347a94e-3605-4b36-8771-658e6768a44b)
 ![image](https://github.com/user-attachments/assets/985c0b00-723e-41ad-a209-28950b23db58)
 
-## 🛠 기능 엿보기   
+12.API reference -> ApI kets -> create new secret keys
+![image](https://github.com/user-attachments/assets/c5ec4095-2066-4de9-997e-74baa350bf0e)
 
-1. [❓ EASYME.md가 뭐예요?  ](#-easymemd가-뭐예요)
-2. [🙋‍♀️ 좀 더 구체적으로 가르쳐주세요!](#-좀-더-구체적으로-가르쳐주세요)
-3. [🛠 기능 엿보기](#-기능-엿보기)
-    - [Header](#header)   
-    - [Text Style1](#text-style1)   
-    - [Text Stlye2](#text-style2)   
-    - [List](#list)      
-    - [Link](#link)   
-    - [Code Block](#code-block)   
-    - [Table](#table)   
-   
-## Header
-- # H1 Header   
-- ## H2 Header   
-- ### H3 Header   
-- #### H4 Header   
-- ##### H5 Header   
-- ###### H6 Header   
+13.default project 선택 후 key 복사
 
-<br>   
+![image](https://github.com/user-attachments/assets/d873e652-ed81-43fc-baf0-62861a93e0bf)
 
-## Text Style1
-- **진하게** (`Ctrl(Command) + B`)   
-- *기울이기* (`Ctrl(Command) + I`)   
-- <s>취소선</s> (`Ctrl(Command) + D`)   
-- <u>밑줄</u> (`Ctrl(Command) + U`)   
+![image](https://github.com/user-attachments/assets/ff4d5fd9-6b5d-4a18-86b2-6744b946f56f)
 
-<br>   
-   
-## Text Style2
+14.소스 코드 폴더에 ".env"라는 텍스트 파일 생성 후 해당 파일에 다음과 같이 작성
 
->인용문   
-   
-<details><summary>접고 펴는 기능
-</summary>
+![image](https://github.com/user-attachments/assets/1dacac1c-a5eb-4c14-8eac-12e51f3d990c)
+![image](https://github.com/user-attachments/assets/4d91d9a3-bbfc-4499-8f72-ac85676ce4be)
 
-*Write here!*
-</details>
-
-- EASYME.md를 드래그하고 상단에 `Aa` 아이콘을 누르면? 👉 Easyme.md   
-- EASYME.md를 드래그하고 상단에 `A` 아이콘을 누르면? 👉 EASYME.MD   
-- EASYME.md를 드래그하고 상단에 `a` 아이콘을 누르면? 👉 easyme.md   
-   
-<br>   
-   
-## List   
-### Table of contents
-1. [title1](#write-title-here!)   
-2. [title2](#only-lowercase)   
-3. [title3](#use"-"instead-of-spacing-words)   
-4. [title4](#example)   
-    - [❓ EASYME.md가 뭐예요?](#-easymemd가-뭐예요)   
-    - [🛠 기능 엿보기](#-기능-엿보기)
-   
-### Unordered list   
-- unordered list1   
-- unordered list2   
-- unordered list3   
-- unordered list4   
-   
-### Ordered list   
-1. ordered list1   
-2. ordered list2   
-3. ordered list3   
-4. ordered list4   
-   
-<br>   
-   
-## Link   
-### General link
-- [🚗 Visit EASYME.md's Repo](https://github.com/EASYME-md/client)   
-- [🙋‍♂️ Visit ONE:A's Github](https://github.com/onealog)
-
-### Image link
-![onealog](/assets/readme/easyme.png)   
-   
-<br>   
-   
-## Code Block   
-### Code inline
-- `console.log('Hello EASYME.md!');`   
-   
-### Code block
-```js
-function makeDeveloper(name, language) {
-  if (name === 'ONE:A' && language === 'JavaScript') {
-    return 'perfect!';
-  }
-
-  return false;
-}
-
-makeDeveloper('ONE:A', 'JavaScript');
+15.소스 파일 폴더에서 cmd 실행 후 아래 코드 입력
+```
+pip install -r requirments.txt
+```
+ 
+16. 아래 코드 입력 시 챗봇 실행
+```
+python main.py
 ```
 
-<br>   
-   
-## Table   
 
+## 🛠 실행 결과
 
-| title1 | title2 | title3 |
-| --- | --- | --- |
-| 1 | 2 | 3 |
-| 4 | 5 | 6 |
-| 7 | 8 | 9 |
-
+![image](https://github.com/user-attachments/assets/cc5b6af2-c51d-432a-9845-136aba2ca176)
 
 <br>   
+
+
+ </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me or bug report </h2> <br> 
+    <div style="text-align: left;"> <a href=https://www.instagram.com/j_ch3873/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_ch3873/"> </a>
+         <a href=mailto:jangdoll7438@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jangdoll7438@gmail.com"> </a>
+    
+
 
