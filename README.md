@@ -35,6 +35,8 @@
 Assistant에서 finish account set up 클릭 후 소액 결제하여 챗봇 활성화.
 ![image](https://github.com/user-attachments/assets/9e18ea76-0a6b-4dfa-a53e-5e6309af916b)
 
+
+
 8.Assistant로 돌아와 create 후 코드 복사
 ![image](https://github.com/user-attachments/assets/24e355c7-fd7b-4e49-a5f9-4a4115bef9ae)
 
