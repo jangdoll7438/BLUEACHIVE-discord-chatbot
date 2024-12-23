@@ -76,7 +76,7 @@ python main.py
 
 ## 🛠 실행 결과
 
-![image](https://github.com/user-attachments/assets/cc5b6af2-c51d-432a-9845-136aba2ca176)
+![image](https://github.com/user-attachments/assets/6463d3c8-6551-407d-9701-65bec884a85b)
 
 <br>   
 
