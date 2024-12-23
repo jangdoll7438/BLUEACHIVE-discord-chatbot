@@ -12,22 +12,42 @@
 
 
 2. New Applications 클릭 후 이름 설정
+
 ![3](https://github.com/user-attachments/assets/d8fcbf62-3f91-43fd-92ad-afe03e3974c9)   
+
 3. 프로필 사진 설정과 설명 작성
+
 ![image](https://github.com/user-attachments/assets/ecbdde16-e8bc-4c3e-9909-5e401767aefa) 
 4. OAuth2 탭에서 bot 체크 후 Send Message 체크
+
 ![image](https://github.com/user-attachments/assets/199eda7f-3fc0-4719-9d81-3ad139dd3de2)   
 ![image](https://github.com/user-attachments/assets/4c04be7b-3edd-4b7e-ae58-44ece852c5bf)
 5. 아래의 URL을 통해 접속 후 원하는 디스코드 서버에 미유 봇을 초대한다.
+
 ![image](https://github.com/user-attachments/assets/ad68be53-f173-40ad-9599-17b7b30a66bb)
 ![image](https://github.com/user-attachments/assets/46a32245-0c0d-4385-96fa-1d35d75fb96b)
+
 6.Bot 탭에서 Reset 토큰 클릭 후 토큰을 복사 후 다른 곳에 저장해 놓는다. (한번만 보여주기 때문, 추후에 사용해야 함.)
 ![image](https://github.com/user-attachments/assets/d5caf40d-7092-47e3-8cd8-f115e8faee99)
 ![image](https://github.com/user-attachments/assets/8fa6d17b-0a45-400d-baaf-6ed964e666cb)
+
 7.Open Ai Playground 접속 (https://platform.openai.com/playground/chat?models=gpt-4o)
 Assistant에서 finish account set up 클릭 후 소액 결제하여 챗봇 활성화.
-
 ![image](https://github.com/user-attachments/assets/9e18ea76-0a6b-4dfa-a53e-5e6309af916b)
+
+8.Assistant로 돌아와 create 후 코드 복사
+![image](https://github.com/user-attachments/assets/24e355c7-fd7b-4e49-a5f9-4a4115bef9ae)
+
+9.system instructons에 prompt.txt에 있는 텍스트를 붙여넣는다.
+![image](https://github.com/user-attachments/assets/c75ae407-d2e0-4706-a9d0-aba89db16175)
+
+10. file search를 활성화하고 miyu.txt를 드래그 앤 드롭
+![image](https://github.com/user-attachments/assets/fcabfe57-573b-4136-a34c-2d1a374c3f1c)
+
+11. discord 개발자 모드 활성화 후  챗봇과 대화하고자하는 채널의 채널 id 복사
+![image](https://github.com/user-attachments/assets/d347a94e-3605-4b36-8771-658e6768a44b)
+![image](https://github.com/user-attachments/assets/985c0b00-723e-41ad-a209-28950b23db58)
+
 ## 🛠 기능 엿보기   
 
 1. [❓ EASYME.md가 뭐예요?  ](#-easymemd가-뭐예요)
@@ -138,3 +158,4 @@ makeDeveloper('ONE:A', 'JavaScript');
 
 
 <br>   
+
